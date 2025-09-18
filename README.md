@@ -2,4 +2,4 @@ aceasta este o simpla lista de sarcini. poti adauga, sterge, vizualiza sarcinile
 
 ## Cum se rulează
 ```bash
-to_do_list.py
+python to_do_list.py
